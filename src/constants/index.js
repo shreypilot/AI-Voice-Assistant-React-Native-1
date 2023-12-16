@@ -1,4 +1,4 @@
-export const apiKey = process.env.API_KEY;
+export const apiKey = process.env.OPENAI_API_KEY
 // in some cases your api key maybe already expired
 // try to use a new account to create an api key
 
